@@ -1,14 +1,10 @@
 {
   "employees": [
     {
-      "name": "test",
-      "email": "test@gmail.com",
-      "phoneNo": 23544334553
-    },
-    {
-      "name": "test1",
-      "email": "test1@gmail.com",
-      "phoneNo": 23544333553
+      "name": "Krishna",
+      "age": "30",
+      "salary": "31000",
+      "id": 1
     }
   ]
 }
